@@ -1,113 +1,171 @@
+Max Score
+
+1000 learning rounds, 1000 evaluation rounds, first interaction
+43: 17
+44: 1
+45: 6
+46: 8
+47: 1
+48: 2
+49: 6
+
+0 learning rounds, 1000 evaluation rounds, first interaction
+57: 3
+58: 3
+59: 5
+60: 5
+61: 2
+62: 1
+63: 1
+
+reference model, 1000 evaluation rounds, first interaction
+71: 62
+72: 50
+73: 57
+74: 54
+75: 61
+76: 58
+77: 72
+
+1000 learning rounds, 1000 evaluation rounds, second interaction
+50: 14
+51: 1
+52: 2
+53: 4
+54: 2
+55: 1
+56: 6
+
+0 learning rounds, 1000 evaluation rounds, second interaction
+64: 4
+65: 2
+66: 3
+67: 2
+68: 2
+69: 4
+70: 3
+
+reference model, 1000 evaluation rounds, second interaction
+78: 21
+79: 20
+80: 22
+81: 20
+82: 24
+83: 22
+84: 18
+
+--
+
 Own metrics
 
 1000 learning rounds, 1000 evaluation rounds, first interaction
-1: 0.8251664 +/- 0.033312044
-2: 0.8234112 +/- 0.035668269
-3: 0.8240496 +/- 0.034686842
-4: 0.8246736 +/- 0.038432344
-5: 0.8252248 +/- 0.032174928
-6: 0.8243272 +/- 0.035701548
-7: 0.7921296 +/- 0.044947532
+43: 0.791648 +/- 0.046956917
+44: 0.7907344 +/- 0.036336052
+45: 0.8033952 +/- 0.044301549
+46: 0.7934504 +/- 0.046904906
+47: 0.779008 +/- 0.035210886
+48: 0.7854512 +/- 0.036973551
+49: 0.77964 +/- 0.0395894
 
 0 learning rounds, 1000 evaluation rounds, first interaction
-15: 0.7893408 +/- 0.042480065
-16: 0.7891912 +/- 0.045074519
-17: 0.7889536 +/- 0.042616405
-18: 0.789552 +/- 0.04340693
-19: 0.787284 +/- 0.044985872
-20: 0.7873912 +/- 0.041830852
-21: 0.7893744 +/- 0.043153295
+57: 0.7901136 +/- 0.042384531
+58: 0.7872912 +/- 0.044090122
+59: 0.789476 +/- 0.043116673
+60: 0.7910384 +/- 0.04355907
+61: 0.7890128 +/- 0.042243876
+62: 0.7894744 +/- 0.041760653
+63: 0.7877272 +/- 0.041351477
 
 reference model, 1000 evaluation rounds, first interaction
-29: 0.80700362 +/- 0.080465495
-30: 0.80422541 +/- 0.077599002
-31: 0.80283837 +/- 0.074589554
-32: 0.80275184 +/- 0.078960922
-33: 0.80462186 +/- 0.080074014
-34: 0.80676963 +/- 0.080141294
-35: 0.80342656 +/- 0.0751547
+71: 0.81007578 +/- 0.060595641
+72: 0.8072768 +/- 0.057131735
+73: 0.80838 +/- 0.059636942
+74: 0.80840333 +/- 0.058355617
+75: 0.8086 +/- 0.060932596
+76: 0.810388 +/- 0.059774968
+77: 0.81100378 +/- 0.064003085
 
 1000 learning rounds, 1000 evaluation rounds, second interaction
-8: 0.811424 +/- 0.031275232
-9: 0.793232 +/- 0.04901035
-10: 0.7937696 +/- 0.047657591
-11: 0.7960968 +/- 0.048465559
-12: 0.793064 +/- 0.048855107
-13: 0.7937952 +/- 0.048308468
-14: 0.7953128 +/- 0.042312669
+50: 0.8064056 +/- 0.045773751
+51: 0.7886512 +/- 0.041290753
+52: 0.809996 +/- 0.037452132
+53: 0.7958512 +/- 0.045460224
+54: 0.7829984 +/- 0.040721049
+55: 0.8042416 +/- 0.042496664
+56: 0.7890144 +/- 0.043972088
 
 0 learning rounds, 1000 evaluation rounds, second interaction
-22: 0.7901136 +/- 0.044789287
-23: 0.7903152 +/- 0.043933088
-24: 0.7905336 +/- 0.043700076
-25: 0.7896848 +/- 0.043713705
-26: 0.787964 +/- 0.045416133
-27: 0.7912384 +/- 0.042622933
-28: 0.7884672 +/- 0.044314912
+64: 0.787888 +/- 0.043859953
+65: 0.7896176 +/- 0.042766381
+66: 0.7907352 +/- 0.043364292
+67: 0.7891808 +/- 0.043263509
+68: 0.7876688 +/- 0.043890471
+69: 0.7926592 +/- 0.043495221
+70: 0.7885848 +/- 0.043956106
 
 reference model, 1000 evaluation rounds, second interaction
-36: 0.80037488 +/- 0.055666122
-37: 0.80162006 +/- 0.058122038
-38: 0.80478797 +/- 0.060628778
-39: 0.80109994 +/- 0.057976349
-40: 0.80207347 +/- 0.055929051
-41: 0.80043434 +/- 0.056275458
-42: 0.79970973 +/- 0.055449569
+78: 0.8058288 +/- 0.046110228
+79: 0.80607402 +/- 0.046568044
+80: 0.8077528 +/- 0.045314404
+81: 0.8065807 +/- 0.045626841
+82: 0.8085479 +/- 0.047204319
+83: 0.80701898 +/- 0.046118129
+84: 0.80708995 +/- 0.043963833
 
 --
 
 SynEvaluator
 
 1000 learning rounds, 1000 evaluation rounds, first interaction
-1: precision: 0.4, recall: 0.4, F1 score: 0.4000000000000001
-2: precision: 0.44, recall: 0.4, F1 score: 0.41904761904761906
-3: precision: 0.44, recall: 0.4, F1 score: 0.41904761904761906
-4: precision: 0.5, recall: 0.4727272727272727, F1 score: 0.48598130841121495
-5: precision: 0.52, recall: 0.4727272727272727, F1 score: 0.49523809523809526
-6: precision: 0.46808510638297873, recall: 0.4, F1 score: 0.43137254901960786
-7: precision: 0.4915254237288136, recall: 0.5272727272727272, F1 score: 0.5087719298245613
+43: precision: 0.4, recall: 0.36363636363636365, F1 score: 0.380952380952381
+44: precision: 0.32608695652173914, recall: 0.2727272727272727, F1 score: 0.297029702970297
+45: precision: 0.5892857142857143, recall: 0.6, F1 score: 0.5945945945945946
+46: precision: 0.4642857142857143, recall: 0.4727272727272727, F1 score: 0.4684684684684684
+47: precision: 0.4090909090909091, recall: 0.32727272727272727, F1 score: 0.3636363636363637
+48: precision: 0.48, recall: 0.43636363636363634, F1 score: 0.4571428571428572
+49: precision: 0.3695652173913043, recall: 0.3090909090909091, F1 score: 0.33663366336633666
 
 0 learning rounds, 1000 evaluation rounds, first interaction
-15: precision: 0.0, recall: 0.0, F1 score: 0.0
-16: precision: 0.0, recall: 0.0, F1 score: 0.0
-17: precision: 0.0, recall: 0.0, F1 score: 0.0
-18: precision: 0.0, recall: 0.0, F1 score: 0.0
-19: precision: 0.0, recall: 0.0, F1 score: 0.0
-20: precision: 0.0, recall: 0.0, F1 score: 0.0
-21: precision: 0.0, recall: 0.0, F1 score: 0.0
+57: precision: 0.0, recall: 0.0, F1 score: 0.0
+58: precision: 0.0, recall: 0.0, F1 score: 0.0
+59: precision: 0.0, recall: 0.0, F1 score: 0.0
+60: precision: 0.0, recall: 0.0, F1 score: 0.0
+61: precision: 0.0, recall: 0.0, F1 score: 0.0
+62: precision: 0.0, recall: 0.0, F1 score: 0.0
+63: precision: 0.0, recall: 0.0, F1 score: 0.0
 
 reference model, 1000 evaluation rounds, first interaction
-29: precision: 1.0, recall: 1.0, F1 score: 1.0
-30: precision: 1.0, recall: 1.0, F1 score: 1.0
-31: precision: 1.0, recall: 1.0, F1 score: 1.0
-32: precision: 1.0, recall: 1.0, F1 score: 1.0
-33: precision: 1.0, recall: 1.0, F1 score: 1.0
-34: precision: 1.0, recall: 1.0, F1 score: 1.0
-35: precision: 1.0, recall: 1.0, F1 score: 1.0
+71: precision: 1.0, recall: 1.0, F1 score: 1.0
+72: precision: 1.0, recall: 1.0, F1 score: 1.0
+73: precision: 1.0, recall: 1.0, F1 score: 1.0
+74: precision: 1.0, recall: 1.0, F1 score: 1.0
+75: precision: 1.0, recall: 1.0, F1 score: 1.0
+76: precision: 1.0, recall: 1.0, F1 score: 1.0
+77: precision: 1.0, recall: 1.0, F1 score: 1.0
 
 1000 learning rounds, 1000 evaluation rounds, second interaction
-8: precision: 0.3522727272727273, recall: 0.29245283018867924, F1 score: 0.31958762886597936
-9: precision: 0.44, recall: 0.20754716981132076, F1 score: 0.28205128205128205
-10: precision: 0.44, recall: 0.20754716981132076, F1 score: 0.28205128205128205
-11: precision: 0.5, recall: 0.24528301886792453, F1 score: 0.32911392405063294
-12: precision: 0.52, recall: 0.24528301886792453, F1 score: 0.3333333333333333
-13: precision: 0.46808510638297873, recall: 0.20754716981132076, F1 score: 0.28758169934640526
-14: precision: 0.3977272727272727, recall: 0.330188679245283, F1 score: 0.36082474226804123
+50: precision: 0.3780487804878049, recall: 0.29245283018867924, F1 score: 0.3297872340425532
+51: precision: 0.32608695652173914, recall: 0.14150943396226415, F1 score: 0.1973684210526316
+52: precision: 0.46153846153846156, recall: 0.4528301886792453, F1 score: 0.45714285714285713
+53: precision: 0.3595505617977528, recall: 0.3018867924528302, F1 score: 0.32820512820512826
+54: precision: 0.4090909090909091, recall: 0.16981132075471697, F1 score: 0.24
+55: precision: 0.42857142857142855, recall: 0.39622641509433965, F1 score: 0.4117647058823529
+56: precision: 0.3695652173913043, recall: 0.16037735849056603, F1 score: 0.2236842105263158
 
 0 learning rounds, 1000 evaluation rounds, second interaction
-22: precision: 0.0, recall: 0.0, F1 score: 0.0
-23: precision: 0.0, recall: 0.0, F1 score: 0.0
-24: precision: 0.0, recall: 0.0, F1 score: 0.0
-25: precision: 0.0, recall: 0.0, F1 score: 0.0
-26: precision: 0.0, recall: 0.0, F1 score: 0.0
-27: precision: 0.0, recall: 0.0, F1 score: 0.0
-28: precision: 0.0, recall: 0.0, F1 score: 0.0
+64: precision: 0.0, recall: 0.0, F1 score: 0.0
+65: precision: 0.0, recall: 0.0, F1 score: 0.0
+66: precision: 0.0, recall: 0.0, F1 score: 0.0
+67: precision: 0.0, recall: 0.0, F1 score: 0.0
+68: precision: 0.0, recall: 0.0, F1 score: 0.0
+69: precision: 0.0, recall: 0.0, F1 score: 0.0
+70: precision: 0.0, recall: 0.0, F1 score: 0.0
 
 reference model, 1000 evaluation rounds, second interaction
-36: precision: 1.0, recall: 1.0, F1 score: 1.0
-37: precision: 1.0, recall: 1.0, F1 score: 1.0
-38: precision: 1.0, recall: 1.0, F1 score: 1.0
-39: precision: 1.0, recall: 1.0, F1 score: 1.0
-40: precision: 1.0, recall: 1.0, F1 score: 1.0
-41: precision: 1.0, recall: 1.0, F1 score: 1.0
-42: precision: 1.0, recall: 1.0, F1 score: 1.0
+78: precision: 1.0, recall: 1.0, F1 score: 1.0
+79: precision: 1.0, recall: 1.0, F1 score: 1.0
+80: precision: 1.0, recall: 1.0, F1 score: 1.0
+81: precision: 1.0, recall: 1.0, F1 score: 1.0
+82: precision: 1.0, recall: 1.0, F1 score: 1.0
+83: precision: 1.0, recall: 1.0, F1 score: 1.0
+84: precision: 1.0, recall: 1.0, F1 score: 1.0

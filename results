@@ -1,3 +1,61 @@
+Max Score
+
+1000 learning rounds, 1000 evaluation rounds, first interaction
+1: 2
+2: 3
+3: 3
+4: 9
+5: 1
+6: 4
+7: 3
+
+0 learning rounds, 1000 evaluation rounds, first interaction
+15: 3
+16: 7
+17: 1
+18: 6
+19: 6
+20: 1
+21: 3
+
+reference model, 1000 evaluation rounds, first interaction
+29: 118
+30: 105
+31: 94
+32: 107
+33: 115
+34: 116
+35: 97
+
+1000 learning rounds, 1000 evaluation rounds, second interaction
+8: 2
+9: 8
+10: 8
+11: 9
+12: 8
+13: 9
+14: 2
+
+0 learning rounds, 1000 evaluation rounds, second interaction
+22: 3
+23: 3
+24: 3
+25: 2
+26: 5
+27: 1
+28: 3
+
+reference model, 1000 evaluation rounds, second interaction
+36: 32
+37: 42
+38: 54
+39: 42
+40: 39
+41: 37
+42: 34
+
+--
+
 Own metrics
 
 1000 learning rounds, 1000 evaluation rounds, first interaction
