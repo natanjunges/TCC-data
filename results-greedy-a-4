@@ -1,0 +1,171 @@
+Max Score
+
+1000 learning rounds, 1000 evaluation rounds, first interaction
+295:
+296:
+297:
+298:
+299:
+300:
+301:
+
+0 learning rounds, 1000 evaluation rounds, first interaction
+309:
+310:
+311:
+312:
+313:
+314:
+315:
+
+reference model, 1000 evaluation rounds, first interaction
+323:
+324:
+325:
+326:
+327:
+328:
+329:
+
+1000 learning rounds, 1000 evaluation rounds, second interaction
+302:
+303:
+304:
+305:
+306:
+307:
+308:
+
+0 learning rounds, 1000 evaluation rounds, second interaction
+316:
+317:
+318:
+319:
+320:
+321:
+322:
+
+reference model, 1000 evaluation rounds, second interaction
+330:
+331:
+332:
+333:
+334:
+335:
+336:
+
+--
+
+Own metrics
+
+1000 learning rounds, 1000 evaluation rounds, first interaction
+295:
+296:
+297:
+298:
+299:
+300:
+301:
+
+0 learning rounds, 1000 evaluation rounds, first interaction
+309:
+310:
+311:
+312:
+313:
+314:
+315:
+
+reference model, 1000 evaluation rounds, first interaction
+323:
+324:
+325:
+326:
+327:
+328:
+329:
+
+1000 learning rounds, 1000 evaluation rounds, second interaction
+302:
+303:
+304:
+305:
+306:
+307:
+308:
+
+0 learning rounds, 1000 evaluation rounds, second interaction
+316:
+317:
+318:
+319:
+320:
+321:
+322:
+
+reference model, 1000 evaluation rounds, second interaction
+330:
+331:
+332:
+333:
+334:
+335:
+336:
+
+--
+
+SynEvaluator
+
+1000 learning rounds, 1000 evaluation rounds, first interaction
+295:
+296:
+297:
+298:
+299:
+300:
+301:
+
+0 learning rounds, 1000 evaluation rounds, first interaction
+309:
+310:
+311:
+312:
+313:
+314:
+315:
+
+reference model, 1000 evaluation rounds, first interaction
+323:
+324:
+325:
+326:
+327:
+328:
+329:
+
+1000 learning rounds, 1000 evaluation rounds, second interaction
+302:
+303:
+304:
+305:
+306:
+307:
+308:
+
+0 learning rounds, 1000 evaluation rounds, second interaction
+316:
+317:
+318:
+319:
+320:
+321:
+322:
+
+reference model, 1000 evaluation rounds, second interaction
+330:
+331:
+332:
+333:
+334:
+335:
+336:
