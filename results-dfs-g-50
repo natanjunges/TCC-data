@@ -125,24 +125,6 @@ SynEvaluator
 216: precision: 0.42105263157894735, recall: 0.43636363636363634, F1 score: 0.42857142857142855
 217: precision: 0.3541666666666667, recall: 0.3090909090909091, F1 score: 0.33009708737864074
 
-0 learning rounds, 1000 evaluation rounds, first interaction
-225: precision: 0.0, recall: 0.0, F1 score: 0.0
-226: precision: 0.0, recall: 0.0, F1 score: 0.0
-227: precision: 0.0, recall: 0.0, F1 score: 0.0
-228: precision: 0.0, recall: 0.0, F1 score: 0.0
-229: precision: 0.0, recall: 0.0, F1 score: 0.0
-230: precision: 0.0, recall: 0.0, F1 score: 0.0
-231: precision: 0.0, recall: 0.0, F1 score: 0.0
-
-reference model, 1000 evaluation rounds, first interaction
-239: precision: 1.0, recall: 1.0, F1 score: 1.0
-240: precision: 1.0, recall: 1.0, F1 score: 1.0
-241: precision: 1.0, recall: 1.0, F1 score: 1.0
-242: precision: 1.0, recall: 1.0, F1 score: 1.0
-243: precision: 1.0, recall: 1.0, F1 score: 1.0
-244: precision: 1.0, recall: 1.0, F1 score: 1.0
-245: precision: 1.0, recall: 1.0, F1 score: 1.0
-
 1000 learning rounds, 1000 evaluation rounds, second interaction
 218: precision: 0.422680412371134, recall: 0.3867924528301887, F1 score: 0.40394088669950734
 219: precision: 0.3617021276595745, recall: 0.16037735849056603, F1 score: 0.2222222222222222
@@ -151,21 +133,3 @@ reference model, 1000 evaluation rounds, first interaction
 222: precision: 0.38823529411764707, recall: 0.3113207547169811, F1 score: 0.34554973821989526
 223: precision: 0.41379310344827586, recall: 0.33962264150943394, F1 score: 0.37305699481865284
 224: precision: 0.3541666666666667, recall: 0.16037735849056603, F1 score: 0.22077922077922077
-
-0 learning rounds, 1000 evaluation rounds, second interaction
-232: precision: 0.0, recall: 0.0, F1 score: 0.0
-233: precision: 0.0, recall: 0.0, F1 score: 0.0
-234: precision: 0.0, recall: 0.0, F1 score: 0.0
-235: precision: 0.0, recall: 0.0, F1 score: 0.0
-236: precision: 0.0, recall: 0.0, F1 score: 0.0
-237: precision: 0.0, recall: 0.0, F1 score: 0.0
-238: precision: 0.0, recall: 0.0, F1 score: 0.0
-
-reference model, 1000 evaluation rounds, second interaction
-246: precision: 1.0, recall: 1.0, F1 score: 1.0
-247: precision: 1.0, recall: 1.0, F1 score: 1.0
-248: precision: 1.0, recall: 1.0, F1 score: 1.0
-249: precision: 1.0, recall: 1.0, F1 score: 1.0
-250: precision: 1.0, recall: 1.0, F1 score: 1.0
-251: precision: 1.0, recall: 1.0, F1 score: 1.0
-252: precision: 1.0, recall: 1.0, F1 score: 1.0
