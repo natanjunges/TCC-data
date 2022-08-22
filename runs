@@ -98,3 +98,4 @@
 -I 456 457 458 459 460 461 462 -p "/home/natan/Projetos/TCC/data" -s 1659500336.402763 -n 0.1 -i SecondInteraction -e -r 1000
 
 -I 463 464 465 466 467 468 469 -p "/home/natan/Projetos/TCC/data" -s 1659537554.0892205 -n 0.1 -i FirstInteraction -r 1000
+-I 470 471 472 473 474 475 476 -p "/home/natan/Projetos/TCC/data" -s 1661122413.5502784 -n 0.1 -i SecondInteraction -m -r 1000
