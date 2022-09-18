@@ -1,0 +1,135 @@
+Max Score
+
+1000 learning rounds, 1000 evaluation rounds, first interaction
+505:
+506:
+507:
+508:
+509:
+510:
+511:
+
+0 learning rounds, 1000 evaluation rounds, first interaction
+519:
+520:
+521:
+522:
+523:
+524:
+525:
+
+reference model, 1000 evaluation rounds, first interaction
+533:
+534:
+535:
+536:
+537:
+538:
+539:
+
+1000 learning rounds, 1000 evaluation rounds, second interaction
+512:
+513:
+514:
+515:
+516:
+517:
+518:
+
+0 learning rounds, 1000 evaluation rounds, second interaction
+526:
+527:
+528:
+529:
+530:
+531:
+532:
+
+reference model, 1000 evaluation rounds, second interaction
+540:
+541:
+542:
+543:
+544:
+545:
+546:
+
+--
+
+Own metrics
+
+1000 learning rounds, 1000 evaluation rounds, first interaction
+505:
+506:
+507:
+508:
+509:
+510:
+511:
+
+0 learning rounds, 1000 evaluation rounds, first interaction
+519:
+520:
+521:
+522:
+523:
+524:
+525:
+
+reference model, 1000 evaluation rounds, first interaction
+533:
+534:
+535:
+536:
+537:
+538:
+539:
+
+1000 learning rounds, 1000 evaluation rounds, second interaction
+512:
+513:
+514:
+515:
+516:
+517:
+518:
+
+0 learning rounds, 1000 evaluation rounds, second interaction
+526:
+527:
+528:
+529:
+530:
+531:
+532:
+
+reference model, 1000 evaluation rounds, second interaction
+540:
+541:
+542:
+543:
+544:
+545:
+546:
+
+--
+
+SynEvaluator
+
+1000 learning rounds, 1000 evaluation rounds, first interaction
+505:
+506:
+507:
+508:
+509:
+510:
+511:
+
+1000 learning rounds, 1000 evaluation rounds, second interaction
+512:
+513:
+514:
+515:
+516:
+517:
+518:

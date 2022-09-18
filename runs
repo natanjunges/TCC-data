@@ -105,3 +105,5 @@
 -I 484 485 486 487 488 489 490 -p "/home/natan/Projetos/TCC/data" -s 1661213884.155242 -n 0.1 -i SecondInteraction -m -e -r 1000
 -I 491 492 493 494 495 496 497 -p "/home/natan/Projetos/TCC/data" -s 1661214257.7746928 -n 0.1 -i FirstInteraction -e -r 1000
 -I 498 499 500 501 502 503 504 -p "/home/natan/Projetos/TCC/data" -s 1661216398.7667737 -n 0.1 -i SecondInteraction -e -r 1000
+
+-I 505 506 507 508 509 510 511 -p "/home/natan/Projetos/TCC/data" -s 1661266493.8670626 -n 0.1 -i FirstInteraction -r 1000
