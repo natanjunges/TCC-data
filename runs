@@ -108,3 +108,9 @@
 
 -I 505 506 507 508 509 510 511 -p "/home/natan/Projetos/TCC/data" -s 1661266493.8670626 -n 0.1 -i FirstInteraction -r 1000
 -I 512 513 514 515 516 517 518 -p "/home/natan/Projetos/TCC/data" -s 1664499658.6494253 -n 0.1 -i SecondInteraction -m -r 1000
+-I 505 506 507 508 509 510 511 -p "/home/natan/Projetos/TCC/data" -s 1666372623.8503911 -n 0.1 -i FirstInteraction -e -r 1000
+-I 512 513 514 515 516 517 518 -p "/home/natan/Projetos/TCC/data" -s 1666373054.6386344 -n 0.1 -i SecondInteraction -e -r 1000
+-I 519 520 521 522 523 524 525 -p "/home/natan/Projetos/TCC/data" -s 1666373643.5995457 -n 0.1 -i FirstInteraction -e -r 1000
+-I 526 527 528 529 530 531 532 -p "/home/natan/Projetos/TCC/data" -s 1666374000.2103336 -n 0.1 -i SecondInteraction -m -e -r 1000
+-I 533 534 535 536 537 538 539 -p "/home/natan/Projetos/TCC/data" -s 1666374328.412305 -n 0.1 -i FirstInteraction -e -r 1000
+-I 540 541 542 543 544 545 546 -p "/home/natan/Projetos/TCC/data" -s 1666379208.6672566 -n 0.1 -i SecondInteraction -e -r 1000
