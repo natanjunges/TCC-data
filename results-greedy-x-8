@@ -92,7 +92,7 @@ reference model, 1000 evaluation rounds, first interaction
 347: 0.8207064 +/- 0.032532933
 348: 0.7824096 +/- 0.042158003
 349: 0.8003712 +/- 0.045988766
-350: 0.8212608 +/-0.036431723
+350: 0.8212608 +/- 0.036431723
 
 0 learning rounds, 1000 evaluation rounds, second interaction
 358: 0.7888616 +/- 0.042993918
